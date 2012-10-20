@@ -1,0 +1,2 @@
+http://api.linkedin.com/v1/people/~:(first-name,last-name,formatted-name,industry,skills,summary,specialties,positions,picture-url,educations,interests)?format=json
+

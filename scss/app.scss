@@ -1,0 +1,21 @@
+body{
+    padding-top:70px;
+}
+.header-row{
+ 
+    margin-top:20px;
+    margin-bottom:20px;
+    h1.page-title{
+        font-size:33px;
+        font-weight:300;
+    }
+}
+.text-right{
+    text-align:right;
+}
+.line-separator{
+    height:1px;
+    //background:#717171;
+    border-bottom:1px solid #999;
+}
+@import "partials/resume";
